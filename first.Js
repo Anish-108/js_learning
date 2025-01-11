@@ -58,6 +58,28 @@
 //                 // console.log("++a = ", ++a);
 //                 console.log("a++ = ", a++);
 //                 console.log("a++ = ",a);
-                    a=5;
-                    console.log("--a =" , --a);
-                    console.log("a-- = ",a--); 
+                    // a=5;
+                    // console.log("--a =" , --a);
+                    // console.log("a-- = ",a--); 
+                    
+                    // let a= 5;
+                    // let b= 2;
+                    // console.log("a==b : ",a==b);
+                    // console.log("a != b : ", a != b);
+
+                    // let a = 5;
+                    // let b =2;
+                    // console.log("a===b : ",a===b);
+                    // console.log("a!==b : ",a!==b);
+                    // console.log("a > b : ",a>b);
+                    // console.log("a >= b : ",a>=b);
+                    // console.log("a < b : ",a<b);
+                    // console.log("a <= b : ",a<=b);
+
+                    // logical operator
+
+                    let a = 6;
+                    let b = 5;
+                    console.log("cond1 && cond2 : ", a<b && a==6);
+                    console.log("cond1 || cond2 : ", a<b || a==6);
+                    console.log("!(a<b) : ", !(a<b));
